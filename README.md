@@ -42,7 +42,7 @@ I focus on:
 - Agentic workflows & AI testing techniques
 - API automation ecosystems
 - Cloud-native CI/CD pipelines
-- Learning Photon & AI Agent Building
+- Learning python & AI Agent Building
 
 ---
 
