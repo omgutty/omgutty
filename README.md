@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Gutty</h1>
-<h3 align="center">QA Automation Architect | SDET | AI-Driven Quality Engineering</h3>
+<h3 align="center">Senior SDET & QA Test Lead | AI-Driven Quality Engineering | Playwright • TypeScript • Cloud</h3>
 
 <p align="center">
   <a href="https://github.com/omgutty">
@@ -11,47 +11,45 @@
 
 ## 🚀 About Me
 
-I am a Lead QA professional with **12+ years of experience** driving quality engineering transformation across enterprise web and API platforms.
+I'm a **Senior SDET and QA Test Lead** with **13+ years of experience**, currently driving quality engineering at **Cygnet.One** (formerly Cygnet Infotech), Ahmedabad, India.
 
-I specialize in designing **scalable, maintainable, and cloud-ready automation frameworks** aligned with modern DevOps practices.
+I specialize in designing **scalable, maintainable, and cloud-ready automation frameworks** spanning UI and API testing, aligned with modern DevOps practices — and increasingly, with AI-augmented QA workflows.
 
 My expertise includes:
 
-- UI Automation using Selenium & Playwright
+- UI Automation using Playwright & Selenium
 - API Automation using REST Assured & Postman
-- Framework Architecture using Java & TypeScript
-- Dockerized execution environments
-- Selenium Grid & Parallel Execution
-- AWS-based automation infrastructure
-- AI-driven testing strategies
+- Framework Architecture using TypeScript / JavaScript & Java
+- Cloud infrastructure: AWS, Docker
 - CI/CD pipeline integration
-- Intelligent automation ecosystems
+- BDD frameworks
+- AI-driven testing strategies (Claude AI, Model Context Protocol)
+- Security testing fundamentals (OWASP, BOLA)
 
 I focus on:
-✔ Reducing regression execution time  
-✔ Improving defect detection accuracy  
-✔ Building resilient automation platforms  
-✔ Enabling enterprise-scale quality engineering  
+✔ Reducing regression execution time
+✔ Improving defect detection accuracy
+✔ Building resilient, scalable automation platforms
+✔ Mentoring teams and driving enterprise-scale quality engineering
 
 ---
 
 ## 🔭 Current Focus
 
-- Building scalable Playwright automation frameworks
-- AI-integrated QA automation
+- Bus management & display management systems with dynamic stand allocation
+- AI-integrated QA automation using Claude & MCP
 - Agentic workflows & AI testing techniques
-- API automation ecosystems
-- Cloud-native CI/CD pipelines
-- Learning python & AI Agent Building
+- Preparing for Senior QA Team Lead / SDET interviews — product quality metrics, risk-based testing, exploratory testing, Playwright fixtures, TypeScript OOP, and STAR-method storytelling
+- Building out a cinematic personal portfolio (Next.js, Three.js, GSAP)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Automation & Testing
@@ -68,16 +66,15 @@ I focus on:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### AI & Workflow Automation
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🚌 Perth Bus Stand Management System – Display Management System
-🔗 Repository: https://github.com/omgutty/WECA
-
-Transport solutions supporting:
+### 🚌 Bus Management & Display Management System
+Transport solutions supporting dynamic stand allocation, including:
 - Traffic management
 - Real-time passenger information systems
 - Smart transport ecosystem integrations
@@ -86,16 +83,20 @@ Transport solutions supporting:
 
 Built to support scalable public transportation systems using modern digital infrastructure.
 
----
+### 🛡️ Watchguard QA Documentation
+Test strategy and test planning for a surveillance product, including consolidated, professionally formatted documentation covering functional and security test coverage.
 
 ### 🛒 AARP Retail Website Automation
-
 Enterprise retail & caregiving support platform automation focused on:
 - UI & API validation
 - End-to-end user workflows
 - Data-driven automation
 - Care plan recommendation validation
 - Provider database integration testing
+
+### 🌐 Cinematic Portfolio
+A Next.js portfolio site built with Three.js, GSAP, and CSS Modules — featuring Hero, About, Skills, Projects, Certifications, and Contact sections.
+🔗 https://omgutty.github.io/
 
 ---
 
@@ -104,6 +105,7 @@ Enterprise retail & caregiving support platform automation focused on:
 ### FOUNDATION
 - Claude 101 — Completed
 - AI Fluency: Framework & Foundations — Completed
+- Introduction to Model Context Protocol — Completed
 
 ### PRACTITIONER
 - Claude Code 101 — Completed
@@ -132,16 +134,18 @@ Enterprise retail & caregiving support platform automation focused on:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgutty&layout=compact&theme=tokyonight" alt="languages"/>
 </p>
 
+**17** public repositories · **2** stars earned · **2** following
+
 ---
 
 ## 💬 Ask Me About
 
 - Playwright Framework Architecture
+- TypeScript Automation & OOP Concepts
 - Selenium Grid
-- TypeScript Automation
-- Enterprise QA Transformation
-- API Automation
-- AI-driven Testing
+- Enterprise QA Transformation & Risk-Based Testing
+- API Automation & Security Testing (OWASP, BOLA)
+- AI-driven Testing with Claude & MCP
 - CI/CD Automation
 - Dockerized Test Execution
 - QA Strategy & Scaling
@@ -160,24 +164,24 @@ Enterprise retail & caregiving support platform automation focused on:
 </a>
 </p>
 
-📧 Email: om.gutty@gmail.com  
-📱 Phone: +91 9099483219  
+📧 Email: om.gutty@gmail.com
+📱 Phone: +91 9099483219
 🌐 Portfolio: https://omgutty.github.io/
 
 ---
 
 ## ⚡ Coding Philosophy
 
-> “Quality Engineering is not about finding bugs — it is about engineering confidence at scale.”
+> "Quality Engineering is not about finding bugs — it is about engineering confidence at scale."
 
 ---
 
 ## 🧩 Currently Learning
 
-- Photon AI
-- Agent Building
+- AI Agent Building (Python)
+- Agentic QA Workflows
 - AI-Augmented Automation Systems
-- Autonomous QA Workflows
+- Autonomous Testing Pipelines
 
 ---
 
