@@ -101,10 +101,10 @@ A Next.js portfolio site built with Three.js, GSAP, and CSS Modules — featurin
 🔗 https://portfolio-om-gutty.vercel.app/
 ---
 
-## ![Vercel](https://shields.io)  vercel pages:
-### rag explorer 
+##  vercel pages:
+rag explorer 
 🔗 https://rag-local-file-explorer.vercel.app/
-#### Details of the Advance Rag 
+Details of the Advance Rag 
 🔗 https://rag-local-file-explorer-q8q4.vercel.app/
 ---
 
