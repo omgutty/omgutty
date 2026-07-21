@@ -96,8 +96,16 @@ Enterprise retail & caregiving support platform automation focused on:
 
 ### 🌐 Cinematic Portfolio
 A Next.js portfolio site built with Three.js, GSAP, and CSS Modules — featuring Hero, About, Skills, Projects, Certifications, and Contact sections.
-🔗 https://omgutty.github.io/
 
+🔗 https://omgutty.github.io/
+🔗 https://portfolio-om-gutty.vercel.app/
+---
+
+## ![Vercel](https://shields.io)  vercel pages:
+### rag explorer 
+🔗 https://rag-local-file-explorer.vercel.app/
+#### Details of the Advance Rag 
+🔗 https://rag-local-file-explorer-q8q4.vercel.app/
 ---
 
 ## 🧠 AI Certifications
