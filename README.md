@@ -93,19 +93,98 @@ Enterprise retail & caregiving support platform automation focused on:
 - Data-driven automation
 - Care plan recommendation validation
 - Provider database integration testing
+---
+## 🌐 Live Portfolio & AI Projects
 
-### 🌐 Cinematic Portfolio
-A Next.js portfolio site built with Three.js, GSAP, and CSS Modules — featuring Hero, About, Skills, Projects, Certifications, and Contact sections.
+<div align="center">
 
-🔗 https://omgutty.github.io/
-🔗 https://portfolio-om-gutty.vercel.app/
+### 🎨 Cinematic Portfolio
+
+<p>
+  <a href="https://portfolio-om-gutty.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://omgutty.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+Modern developer portfolio built using:
+
+✨ Next.js • Three.js • GSAP • CSS Modules
+
+Featuring immersive animations, interactive UI, responsive layouts, and a cinematic user experience.
+
+---
+## 🚀 Featured Engineering Projects
+
+### 🤖 Advanced RAG Explorer
+- Hybrid Search (Dense + Sparse)
+- Reciprocal Rank Fusion (RRF)
+- BGE-M3 Embeddings
+- Cross-Encoder Re-ranking
+- DeepSeek LLM
+- Qdrant Vector Database
+- Vercel Deployment
+
+🔗 Live Demo:
+https://rag-local-file-explorer-q8q4.vercel.app/
+
 ---
 
-##  vercel pages:
-rag explorer 
-🔗 https://rag-local-file-explorer.vercel.app/
-Details of the Advance Rag 
-🔗 https://rag-local-file-explorer-q8q4.vercel.app/
+### 📂 Local File RAG Explorer
+
+A lightweight Retrieval-Augmented Generation application for semantic search across local documents.
+
+🔗 Live Demo:
+https://rag-local-file-explorer.vercel.app/
+
+---
+
+### 🚌 Bus Management & Display Management System
+
+Enterprise transportation platform supporting:
+
+- Dynamic Stand Allocation
+- Passenger Information Systems
+- Digital Display Management
+- Smart Traffic Monitoring
+- Congestion Optimization
+
+---
+
+### 🛡️ Watchguard QA Documentation
+
+Enterprise-quality documentation including:
+
+- Test Strategy
+- Test Plan
+- Functional Coverage
+- Security Testing
+- Risk Assessment
+
+---
+
+### 🛒 AARP Retail Website Automation
+
+Enterprise Playwright automation covering:
+
+- UI Automation
+- API Validation
+- Data-driven Framework
+- End-to-End Workflows
+- Provider Integration Testing
+---
+
+### 🤖 AI & RAG Projects
+
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| 📂 **Local File RAG Explorer** | Upload local files and perform semantic search with Retrieval-Augmented Generation. | **https://rag-local-file-explorer.vercel.app/** |
+| 🚀 **Advanced RAG Explorer** | Hybrid Search (Dense + Sparse), BGE-M3 embeddings, Cross-Encoder Re-ranking, DeepSeek integration, and Qdrant Vector Database. | **https://rag-local-file-explorer-q8q4.vercel.app/** |
+
+</div>
 ---
 
 ## 🧠 AI Certifications
