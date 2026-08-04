@@ -74,12 +74,13 @@ I focus on:
 ## 📌 Featured Projects
 
 ### 🚌 Bus Management & Display Management System
+
 Transport solutions supporting dynamic stand allocation, including:
-Traffic management
-Real-time passenger information systems
-Smart transport ecosystem integrations
-Digital display management
-Congestion optimization strategies
+- Traffic management
+- Real-time passenger information systems
+- Smart transport ecosystem integrations
+- Digital display management
+- Congestion optimization strategies
 
 Built to support scalable public transportation systems using modern digital infrastructure.
 
@@ -87,12 +88,13 @@ Built to support scalable public transportation systems using modern digital inf
 Test strategy and test planning for a surveillance product, including consolidated, professionally formatted documentation covering functional and security test coverage.
 
 ### 🛒 AARP Retail Website Automation
+
 Enterprise retail & caregiving support platform automation focused on:
-UI & API validation
-End-to-end user workflows
-Data-driven automation
-Care plan recommendation validation
-Provider database integration testing
+- UI & API validation
+- End-to-end user workflows
+- Data-driven automation
+- Care plan recommendation validation
+- Provider database integration testing
 ---
 ## 🌐 Live Portfolio & AI Projects
 
@@ -146,11 +148,11 @@ https://rag-local-file-explorer.vercel.app/
 
 Enterprise transportation platform supporting:
 
-Dynamic Stand Allocation
-Passenger Information Systems
-Digital Display Management
-Smart Traffic Monitoring
-Congestion Optimization
+- Dynamic Stand Allocation
+- Passenger Information Systems
+- Digital Display Management
+- Smart Traffic Monitoring
+- Congestion Optimization
 
 ---
 
@@ -158,11 +160,11 @@ Congestion Optimization
 
 Enterprise-quality documentation including:
 
-Test Strategy
-Test Plan
-Functional Coverage
-Security Testing
-Risk Assessment
+- Test Strategy
+- Test Plan
+- Functional Coverage
+- Security Testing
+- Risk Assessment
 
 ---
 
@@ -170,11 +172,11 @@ Risk Assessment
 
 Enterprise Playwright automation covering:
 
-UI Automation
-API Validation
-Data-driven Framework
-End-to-End Workflows
-Provider Integration Testing
+- UI Automation
+- API Validation
+- Data-driven Framework
+- End-to-End Workflows
+- Provider Integration Testing
 ---
 
 ### 🤖 AI & RAG Projects
@@ -197,6 +199,13 @@ Introduction to Model Context Protocol — Completed
 ### PRACTITIONER
 Claude Code 101 — Completed
 Claude Code in Action — Completed
+Introduction to Model Context Protocol (MCP) - Completed
+Model Context Protocol: Advanced Topics- Completed
+
+### ADVANCED
+Introduction to Agent Skills- Completed
+Building with the Claude API
+Introduction to Subagents
 
 ---
 
