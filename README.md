@@ -75,11 +75,11 @@ I focus on:
 
 ### 🚌 Bus Management & Display Management System
 Transport solutions supporting dynamic stand allocation, including:
-- Traffic management
-- Real-time passenger information systems
-- Smart transport ecosystem integrations
-- Digital display management
-- Congestion optimization strategies
+Traffic management
+Real-time passenger information systems
+Smart transport ecosystem integrations
+Digital display management
+Congestion optimization strategies
 
 Built to support scalable public transportation systems using modern digital infrastructure.
 
@@ -88,11 +88,11 @@ Test strategy and test planning for a surveillance product, including consolidat
 
 ### 🛒 AARP Retail Website Automation
 Enterprise retail & caregiving support platform automation focused on:
-- UI & API validation
-- End-to-end user workflows
-- Data-driven automation
-- Care plan recommendation validation
-- Provider database integration testing
+UI & API validation
+End-to-end user workflows
+Data-driven automation
+Care plan recommendation validation
+Provider database integration testing
 ---
 ## 🌐 Live Portfolio & AI Projects
 
@@ -120,13 +120,13 @@ Featuring immersive animations, interactive UI, responsive layouts, and a cinema
 ## 🚀 Featured Engineering Projects
 
 ### 🤖 Advanced RAG Explorer
-- Hybrid Search (Dense + Sparse)
-- Reciprocal Rank Fusion (RRF)
-- BGE-M3 Embeddings
-- Cross-Encoder Re-ranking
-- DeepSeek LLM
-- Qdrant Vector Database
-- Vercel Deployment
+Hybrid Search (Dense + Sparse)
+Reciprocal Rank Fusion (RRF)
+BGE-M3 Embeddings
+Cross-Encoder Re-ranking
+DeepSeek LLM
+Qdrant Vector Database
+Vercel Deployment
 
 🔗 Live Demo:
 https://rag-local-file-explorer-q8q4.vercel.app/
@@ -146,11 +146,11 @@ https://rag-local-file-explorer.vercel.app/
 
 Enterprise transportation platform supporting:
 
-- Dynamic Stand Allocation
-- Passenger Information Systems
-- Digital Display Management
-- Smart Traffic Monitoring
-- Congestion Optimization
+Dynamic Stand Allocation
+Passenger Information Systems
+Digital Display Management
+Smart Traffic Monitoring
+Congestion Optimization
 
 ---
 
@@ -158,11 +158,11 @@ Enterprise transportation platform supporting:
 
 Enterprise-quality documentation including:
 
-- Test Strategy
-- Test Plan
-- Functional Coverage
-- Security Testing
-- Risk Assessment
+Test Strategy
+Test Plan
+Functional Coverage
+Security Testing
+Risk Assessment
 
 ---
 
@@ -170,11 +170,11 @@ Enterprise-quality documentation including:
 
 Enterprise Playwright automation covering:
 
-- UI Automation
-- API Validation
-- Data-driven Framework
-- End-to-End Workflows
-- Provider Integration Testing
+UI Automation
+API Validation
+Data-driven Framework
+End-to-End Workflows
+Provider Integration Testing
 ---
 
 ### 🤖 AI & RAG Projects
@@ -190,20 +190,20 @@ Enterprise Playwright automation covering:
 ## 🧠 AI Certifications
 
 ### FOUNDATION
-- Claude 101 — Completed
-- AI Fluency: Framework & Foundations — Completed
-- Introduction to Model Context Protocol — Completed
+Claude 101 — Completed
+AI Fluency: Framework & Foundations — Completed
+Introduction to Model Context Protocol — Completed
 
 ### PRACTITIONER
-- Claude Code 101 — Completed
-- Claude Code in Action — Completed
+Claude Code 101 — Completed
+Claude Code in Action — Completed
 
 ---
 
 ## 📜 Certifications
 
-- ISTQB Certified
-- AI Testing & Automation Learning Track
+ISTQB Certified
+AI Testing & Automation Learning Track
 
 ---
 
@@ -227,15 +227,15 @@ Enterprise Playwright automation covering:
 
 ## 💬 Ask Me About
 
-- Playwright Framework Architecture
-- TypeScript Automation & OOP Concepts
-- Selenium Grid
-- Enterprise QA Transformation & Risk-Based Testing
-- API Automation & Security Testing (OWASP, BOLA)
-- AI-driven Testing with Claude & MCP
-- CI/CD Automation
-- Dockerized Test Execution
-- QA Strategy & Scaling
+Playwright Framework Architecture
+TypeScript Automation & OOP Concepts
+Selenium Grid
+Enterprise QA Transformation & Risk-Based Testing
+API Automation & Security Testing (OWASP, BOLA)
+AI-driven Testing with Claude & MCP
+CI/CD Automation
+Dockerized Test Execution
+QA Strategy & Scaling
 
 ---
 
@@ -265,10 +265,10 @@ Enterprise Playwright automation covering:
 
 ## 🧩 Currently Learning
 
-- AI Agent Building (Python)
-- Agentic QA Workflows
-- AI-Augmented Automation Systems
-- Autonomous Testing Pipelines
+AI Agent Building (Python)
+Agentic QA Workflows
+AI-Augmented Automation Systems
+Autonomous Testing Pipelines
 
 ---
 
